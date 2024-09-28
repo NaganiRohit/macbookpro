@@ -24,7 +24,7 @@ function page() {
       </div>
     <Canvas camera={{fov:20, position:[0,-10,150]}}>
       <Environment files={["./light.exr"]}/>
-      <ScrollControls pages={3}>
+      <ScrollControls pages={5}>
         <Mecbook/>
     </ScrollControls>
     </Canvas>
