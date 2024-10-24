@@ -18,8 +18,8 @@ function page() {
 
 
       <div className="absolute flex flex-col items-center top-28 left-1/2 -translate-x-1/2 ">
-     <h3 className="masked text-2xl tracking-tighter font-[700]">macbook pro.</h3>
-     <h5>oh so pro!.. </h5>
+     <h3 className="masked text-4xl tracking-tighter font-[700]">macbook pro.</h3>
+     <h5>oh so pro!. </h5>
      <p className="text-center leading-4 text-[0.5rem] w-3/4">lorem input doller how none into product system. </p>
       </div>
     <Canvas camera={{fov:20, position:[0,-10,150]}}>
